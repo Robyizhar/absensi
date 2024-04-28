@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "256296825040",
+    "firebase_url": "https://presence-72ae4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "presence-72ae4",
+    "storage_bucket": "presence-72ae4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256296825040:android:d91e80e083f286bd392ed5",
+        "android_client_info": {
+          "package_name": "robbyizhar.com.absensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256296825040-mmj3qhvhau7hq0cnb79bg5t2drr23uo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0kc1C_o57yqHUFq3BG1CrocwB7GFrlM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256296825040-mmj3qhvhau7hq0cnb79bg5t2drr23uo9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256296825040-arq2k2u8o47bj4pdr0ufauvd5g8vod5u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.presenceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
